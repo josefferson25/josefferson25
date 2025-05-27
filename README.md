@@ -10,7 +10,13 @@
 <li>📂 Neste repositório vais encontrar os projetos em que estou a trabalhar e a minha evolução como programador.</li>
 <li>🌐 Sente-te à vontade para explorar, deixar feedback ou entrar em contacto comigo!</li>
 </ol>
-<br><br>
+<br>
+<br>
+
+[![josefferson stats](https://github-readme-stats.vercel.app/api?username=josefferson25)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josefferson25)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" />
