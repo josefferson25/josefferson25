@@ -1,16 +1,28 @@
-## Hi there 👋
+<ol>
+ <li> 👋 Olá! Eu sou o Josefferson, programador Front-End com grande interesse em tecnologia e desenvolvimento web.
+<li>💻 Atualmente, dedico-me a aprender e aplicar os meus conhecimentos em HTML, CSS, JavaScript e React.</li>
+<li>🚀 Estou constantemente a trabalhar em pequenos projetos práticos para consolidar o que aprendo.</li>
+<li>🎯 O meu foco está em criar interfaces modernas, responsivas e com boa experiência de utilizador.</li>
+<li>📚 Sou curioso por natureza e gosto de explorar novas ferramentas e boas práticas de desenvolvimento.</li>
+<li>🔧 Gosto de resolver problemas e transformar ideias em soluções funcionais e bem apresentadas.</li>
+<li>📈 Acredito na evolução contínua e estou sempre à procura de oportunidades para crescer na área.</li>
+<li>🤝 Estou aberto a colaborações e a contribuir para projetos interessantes da comunidade.</li>
+<li>📂 Neste repositório vais encontrar os projetos em que estou a trabalhar e a minha evolução como programador.</li>
+<li>🌐 Sente-te à vontade para explorar, deixar feedback ou entrar em contacto comigo!</li>
+</ol>
+<br><br>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js-logo" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="node-logo" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="ts-logo" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap-logo" />
+</div>
 
-<!--
-**josefferson25/josefferson25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
