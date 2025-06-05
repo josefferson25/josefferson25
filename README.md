@@ -1,3 +1,4 @@
+# 👨‍💻 Josefferson G Chagas | Desenvolvedor em Front-End
 <ol>
  <li> 👋 Olá! Eu sou o Josefferson, programador Front-End com grande interesse em tecnologia e desenvolvimento web.
 <li>💻 Atualmente, dedico-me a aprender e aplicar os meus conhecimentos em HTML, CSS, JavaScript e React.</li>
@@ -17,6 +18,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josefferson25)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
+### 🛠️ Tecnologias que Utilizo:
+<br>
+<br>
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" />
@@ -26,6 +30,19 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="ts-logo" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap-logo" />
 </div>
+<br>
+<br>
+### 📫 Como me encontrar:
+
+<p align="left">
+  
+  <a href="https://www.linkedin.com/in/seu_usuario" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="Josefferson:goncalves2024@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
 
 
 
