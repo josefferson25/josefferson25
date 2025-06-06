@@ -14,12 +14,7 @@
 <br>
 <br>
 
-[![josefferson stats](https://github-readme-stats.vercel.app/api?username=josefferson25)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josefferson25)](https://github.com/anuraghazra/github-readme-stats)
-
-<br>
-### 🛠️ Tecnologias que Utilizo:
-<br>
+<h2 align="center">🚀 <strong>Tecnologias que estou explorando</strong></h2>
 <br>
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" />
@@ -32,16 +27,32 @@
 </div>
 <br>
 <br>
-### 📫 Como me encontrar:
 
+<h2 align="center">📊 <strong>Estatísticas do GitHub</strong></h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=josefferson25&show_icons=true&theme=radical&border_radius=10&custom_title=Estatísticas+de+josefferson" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=josefferson25&theme=radical&border_radius=10" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=josefferson&bg_color=0d1117&color=7f00ff&line=7f00ff&point=ffffff&area=true&hide_border=true" />
+</p>
+<br>
+<br>
+### 📫 Como me encontrar:
+<br>
+<br>
 <p align="left">
-  
+ 
   <a href="https://www.linkedin.com/in/seu_usuario" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="Josefferson:goncalves2024@hotmail.com" target="_blank">
+  <a href="Josefferson:jeffersonjp1981@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
+   <a href="https://wa.me/16992162921"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+    <a href="josefferson:goncalves2024@htomail.com"><img src="https://img.shields.io/badge/E--mail-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 
