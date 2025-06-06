@@ -14,9 +14,9 @@
 <br>
 <br>
 
-<h2 align="center">🚀 <strong>Tecnologias que estou explorando</strong></h2>
+<h2 align="center">🚀 <strong>Tecnologias que estou Explorando</strong></h2>
 <br>
-<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js-logo" />
@@ -40,10 +40,10 @@
 </p>
 <br>
 <br>
-### 📫 Como me encontrar:
+<h2 align="center">📬 <strong>Como me Encontrar:</strong></h2>
 <br>
 <br>
-<p align="left">
+<p align="center">
  
   <a href="https://www.linkedin.com/in/seu_usuario" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
